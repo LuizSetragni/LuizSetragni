@@ -1,4 +1,5 @@
-## Eai, eu sou o Luiz Setragni, dev back-end!
+## Luiz é meu nome !! 
+  Desenvolvedor fullstack atualmente trabalhando com Java e angular.
 <div align="center">
   <a href="https://github.com/LuizSetragni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizSetragni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
