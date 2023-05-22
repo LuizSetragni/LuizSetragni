@@ -1,8 +1,7 @@
 ## Luiz é meu nome !! 
   Desenvolvedor fullstack atualmente trabalhando com Java e angular.
 <div align="center">
-  <a href="https://github.com/LuizSetragni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizSetragni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSetragni&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--<div style="display: inline_block"><br>
